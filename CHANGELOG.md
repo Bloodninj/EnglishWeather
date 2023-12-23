@@ -1,3 +1,6 @@
+#### 1.1.2
+* Change `meters` to `metres`, `tons` to `tonnes`, `program` to `programme` (where appropriate), `vacation` to `holiday`
+
 #### 1.1.1
 * Convert missed warranty date on HAN-D's log entry
 

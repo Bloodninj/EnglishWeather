@@ -9,6 +9,7 @@ Gosh, it's awfully rainy today, isn't it?
 
 ### Notes
 - Uses the Oxford Dictionary of English as a reference
+- Usage of some Americanisms has been replaced (e.g. `vacation` became `holiday`)
 - Some, but not all text has been hyphenated or split into two words (`shoulderpads` became `shoulder pads`, for example, found in a survivor description)
 - Usage of dollar signs (`$`) has been replaced with pound sterling signs (`£`)
 - `Gasoline` has been replaced with `Petrol`
