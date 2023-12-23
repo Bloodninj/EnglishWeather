@@ -1,3 +1,6 @@
+#### 1.1.1
+* Convert missed warranty date on HAN-D's log entry
+
 #### 1.1.0
 * Added missing localisations (trawling through is time-consuming)
 * `Gasoline` has been changed to `Petrol`
