@@ -1,3 +1,6 @@
+#### 1.1.3
+* Add missing strings from the UI section of the Settings page (changed in recent patch)
+
 #### 1.1.2
 * Change `meters` to `metres`, `tons` to `tonnes`, `program` to `programme` (where appropriate), `vacation` to `holiday`
 
