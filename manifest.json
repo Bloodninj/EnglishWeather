@@ -1,6 +1,6 @@
 {
     "name": "EnglishWeather",
-    "version_number": "1.1.3",
+    "version_number": "1.1.4",
     "website_url": "https://github.com/Bloodninj/EnglishWeather",
     "description": "Adds English (UK) as a language option.",
     "dependencies": []

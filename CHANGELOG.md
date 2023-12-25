@@ -1,3 +1,6 @@
+#### 1.1.4
+* Add missing strings for mouse horizontal aiming and for metal/player scraps
+
 #### 1.1.3
 * Add missing strings from the UI section of the Settings page (changed in recent patch)
 
