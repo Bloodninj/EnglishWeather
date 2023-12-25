@@ -179,6 +179,10 @@
 		"tab_right" : "Next Tab",
 		"ui_swap" : "Sub Menu",
 		"ui_playerlist" : "Toggle Lobby Player List",
+		"aim_left" : "Aim Left",
+		"aim_right" : "Aim Right",
+		"aim_up" : "Aim Up <y>(?)</c>",
+		"aim_up.desc" : "<y>(?):This is only used for certain Survivor abilities.</c> Skills that can utilise this input will be specified in the ability description.",
 
 		"profile.keyboard_and_mouse" : "Keyboard and Mouse (Default)",
 		"profile.gamepad" : "Controller (Default)",
@@ -566,10 +570,15 @@
 			"fullscreenDisplay.desc" : "The display device the window will appear on when running in full-screen mode.\nSelecting \"Auto-Detect (Exclusive)\" will disable borderless mode but may provide increased compatibility.",
 			"mouselock" : "Lock Mouse to Game Window",
 			"mouselock.desc" : "Whether to lock the mouse cursor to the game window while in focus. Helpful to prevent accidentally clicking outside of the game window when using mouse control.",
+			
+			"use_mouse_aim" : "Use Mouse Aim?",
+			"use_mouse_aim.desc" : "Uses the mouse cursor position for aiming applicable skills. When disabled, the 'Aim Left' and 'Aim Right' binds may be used to aim instead.\n\n<spr UITutorialAnimMouseaim 1 0.2>",
 
 			"groupGraphics" : "GRAPHICS",
 			"graphics" : "Quality",
 			"graphics.desc" : "Decrease to disable certain visual effects and lower particle count.\nMay help with performance on lower-end machines.",
+			"decreaseShaders" : "Decrease Shader Effects",
+			"decreaseShaders.desc" : "Enable to remove certain shader-based graphical effects.\nMay help with performance on lower-end machines.",
 			"playerOutlines" : "Player Outlines",
 			"playerOutlines.desc" : "Whether outlines should be displayed around players always, only in local co-op, or never.",
 
@@ -592,7 +601,6 @@
 			"musicVolume.desc" : "The volume of the music.",
 			"automute" : "Mute When Unfocused",
 			"automute.desc" : "Whether or not the game audio will be muted when the game window is not in focus.",
-			
 			
 			"groupGameplay" : "GAMEPLAY",
 			"screenshake" : "Screen Shake Intensity",
@@ -716,7 +724,7 @@
 		},
 
 		"select" : {
-			"headerSingleplayer" : "SINGLE PLAYER",
+			"headerSingleplayer" : "SINGLE-PLAYER",
 			"headerLocalCoop" : "LOCAL CO-OP",
 			"headerOnlineCoop" : "ONLINE CO-OP",
 			"headerMode" : "RULES",
@@ -2193,6 +2201,11 @@
 		"artifactShard" : {
 			"name" : "Artefact Shard",
 			"pickup" : "Find %s more to unlock this artefact..."
+		},
+		"playerScrap" : {
+			"name" : "Metal Scrap",
+			"name2" : "%s's Scraps",
+			"pickup" : "Useless."
 		}
 	},
 
