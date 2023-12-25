@@ -564,12 +564,22 @@
 			"lockHudScale.desc" : "Forces the in-game HUD Scale to match the Zoom Scale.",
 			"fullscreenDisplay" : "Full-screen Display",
 			"fullscreenDisplay.desc" : "The display device the window will appear on when running in full-screen mode.\nSelecting \"Auto-Detect (Exclusive)\" will disable borderless mode but may provide increased compatibility.",
+			"mouselock" : "Lock Mouse to Game Window",
+			"mouselock.desc" : "Whether to lock the mouse cursor to the game window while in focus. Helpful to prevent accidentally clicking outside of the game window when using mouse control.",
 
 			"groupGraphics" : "GRAPHICS",
 			"graphics" : "Quality",
 			"graphics.desc" : "Decrease to disable certain visual effects and lower particle count.\nMay help with performance on lower-end machines.",
 			"playerOutlines" : "Player Outlines",
 			"playerOutlines.desc" : "Whether outlines should be displayed around players always, only in local co-op, or never.",
+
+			"groupUI" : "USER INTERFACE",
+			"uiScale" : "UI Scale",
+			"uiScale.desc" : "Determines the scale of the game's menus.",
+			"uiScale.lockTooltip" : "UI Scale cannot be modified while Lock UI Scale is enabled.",
+			"uiScale.lockTooltip2" : "The current game resolution is too low for UI Scale to be modified.",
+			"lockUIScale" : "Lock UI Scale",
+			"lockUIScale.desc" : "(Recommended) Automatically determines the best UI scale for your resolution. Disabling will allow control of the UI Scale, but may result in fuzzy pixels.",
 			"altFont" : "Use Alternate UI Font",
 			"altFont.desc" : "Enable a larger alternate font for the UI, provides increased text visibility and readability.",
 
@@ -641,6 +651,11 @@
 			"miniHudSkills" : "Mini Skill HUD",
 			"miniHudSkills.desc" : "Displays your skill cooldowns above your character in-game.",
 			"joyconLockTooltip" : "This option is required when using a single Joy-Con.",
+			"showAimCursor" : "Aiming Reticle",
+			"showAimCursor.desc" : "Displays a reticle to indicate direction when aiming.",
+			"huntressAutoaim" : "Huntress Auto-Aim",
+			"huntressAutoaim.desc" : "Toggles the passive auto-aim feature on the Huntress Survivor.",
+			"huntressAutoaim.desc2" : "Toggles the passive auto-aim feature on the Huntress Survivor.\n<r>[!]</c> This has no effect if the <y>'Enable Mouse Aim'</c> option is enabled.",
 			
 			"viewDeadzone" : "Configure Control Stick Deadzones",
 			"viewDeadzone.desc" : "View and configure the deadzones of the control sticks.",
@@ -661,7 +676,10 @@
 			"testDeadzonesPrompt" : "Currently previewing deadzones.\n<y>Press any button to stop...",
 			
 			"rebindKeyPrompt" : "Press new button for:",
-			"rebindKeyCancel" : "<y>Press %s to cancel."
+			"rebindKeyCancel" : "<y>Press %s to cancel.",
+
+			"upd104Header" : "Enable Mouse Aim?",
+			"upd104Message" : "Horizontal Mouse Aim is now available.\n\nYou have controls bound to mouse buttons. Would you like to enable Horizontal Mouse Aim?\n\nThis can be enabled or disabled later from the controls menu.\n\n<spr UITutorialAnimMouseaim 1 0.2>"
 		},
 		"error" : {
 			"error" : "ERROR",
