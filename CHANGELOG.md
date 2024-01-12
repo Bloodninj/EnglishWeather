@@ -1,3 +1,8 @@
+#### 1.1.5
+* Update for latest patch (build ID 13005567)
+  * Some ability damage numbers have been updated
+* Ceremonial Dagger no longer fires ["heat-seaking missiles"](https://knowyourmeme.com/memes/fuck-yeah-seaking) (sadly)
+
 #### 1.1.4
 * Add missing strings for mouse horizontal aiming and for metal/player scraps
 

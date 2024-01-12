@@ -406,7 +406,7 @@
 		"hand2.name" : "Routine Maintenance",
 		"hand2.desc" : "Clean up the top of the massive bridge! Clear at least 25 invaders to fulfil programmed orders.",
 		"hand3.name" : "Main Systems Offline",
-		"hand3.desc" : "Fire your <b>Speed Drones</c> at the attacking invaders and <y>score at least 200 points</c>. Scoring points awards keycards and tougher enemies are worth more points.",
+		"hand3.desc" : "Fire your <b>Drones</c> at the attacking invaders and <y>score at least 200 points</c>. Scoring points awards keycards and tougher enemies are worth more points.",
 		"chef1.name" : "A Fresh Harvest",
 		"chef1.desc" : "Defeat <y>at least 20 Lemurians</c> before time runs out. Bonus Time pickups spawn temporarily to extend the timer.",
 		"chef2.name" : "Kited Blades",
@@ -438,7 +438,7 @@
 		"engineer3.name" : "Drowning in Research",
 		"engineer3.desc" : "Defeat <y>at least 50 of the sinking enemies</c> using your <b>Mortar Barrage</c>. You will incur damage if enemies reach the bottom of the tank.",
 		"miner1.name" : "Scorching Heart",
-		"miner1.desc" : "Using <b>Crush</c>, charge your Heat Meter to <y>maintain</c> <b>Scorching</c> <y>for at least 40 seconds</c> in the hot volcano.",
+		"miner1.desc" : "Using <b>Crush</c>, charge your Heat Meter to <y>maintain</c> <b>Scorching</c> <y>for at least 60 seconds</c> in the hot volcano.",
 		"miner2.name" : "Gup Sorting?",
 		"miner2.desc" : "Gups, Geeps and Gips each belong in different pens. It's up to you to <y>decipher where they belong</c>. Your <y>Prison Shackles</c> can assist in splitting the pack.",
 		"miner3.name" : "Break the Targets!",
@@ -479,7 +479,7 @@
 		"displayAutoExclusive" : "Auto-Detect (Exclusive)",
 
 		"title" : {
-			"startSingle" : "Start Single Player",
+			"startSingle" : "Start Single-Player",
 			"startLocal" : "Start Local Co-op",
 			"startOnline" : "Start Online Co-op",
 			"startTrials" : "Providence Trials",
@@ -1525,7 +1525,7 @@
 		"ceremonialDagger" : {
 			"name" : "Ceremonial Dagger",
 			"pickup" : "Killing an enemy fires spirit bolts.",
-			"description" : "Killing an enemy fires out <b>4 <c_stack>(+2 per stack) <b>heat seaking bolts</c> that deal <y>100% damage</c>.",
+			"description" : "Killing an enemy fires out <b>4 <c_stack>(+2 per stack) <b>heat seeking bolts</c> that deal <y>100% damage</c>.",
 			"destination" : "Tomb 1661,\nBurial Site,\nVenus",
 			"date" : "18/07/2056",
 			"story" : "Finally found the heretic. Foolish boy, thinking he could save his sister. With the knife returned, we can continue our rituals. Ah.. that should please Her."
@@ -2051,7 +2051,7 @@
 		"razorPenny" : {
 			"name" : "Razor Penny",
 			"pickup" : "Slightly increased Critical strike chance. Critical strikes give you gold.",
-			"description" : "Gain <y>3% critical chance <c_stack>(+3% per stack)</c>. <y>Critical strikes drop £1 <c_stack>(+1£ per stack)<y> gold</c>.",
+			"description" : "Gain <y>3% critical chance <c_stack>(+3% per stack)</c>. <y>Critical strikes drop £1 <c_stack>(+£1 per stack)<y> gold</c>.",
 			"destination" : "Residential 24,\nAnlesburg,\nMars",
 			"date" : "22/01/2056",
 			"story" : "No way they allowed these on the market. I know it was ages ago but it's seriously concerning. Imagine having... I don't know, 10 of these in your pocket (you know, pocket change)? Reach in and woops! Mangled hand!\nCities didn't switch to virtual currencies for nothing..."
@@ -3162,7 +3162,7 @@
 		},
 		"artiX2" : {
 			"name" : "Pulse Spear",
-			"description" : "Toss an electric spear for <y>300% damage.</c> Cast again mid-flight to <b>pulse</c> the spear, allowing it to briefly pierce through enemies. \nSuccessful pierces refresh your ability to <b>pulse</c>."
+			"description" : "Toss an electric spear for <y>350% damage.</c> Cast again mid-flight to <b>pulse</c> the spear, allowing it to briefly pierce through enemies. \nSuccessful pierces refresh your ability to <b>pulse</c>."
 		},
 		"artiC2" : {
 			"name" : "Tectonic Surge",
