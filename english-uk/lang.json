@@ -1279,7 +1279,7 @@
 			"name" : "Rusty Jetpack",
 			"pickup" : "Increase jump height and reduce gravity.",
 			"description" : "Decrease <b>gravity</c> while holding the jump button by <b>10% <c_stack>(-10% per stack)</c> and increase <b>jump height <c_stack>(increases per stack)</c>.",
-			"destination" : "Fun Center\n2105\nNE Taurus",
+			"destination" : "Fun Centre\n2105\nNE Taurus",
 			"date" : "01/01/2056",
 			"story" : "Sorry, it seems to be broken. It only works for a split second; maybe I'll send you a fully working jetpack in a few months? Should work well enough for the carnival! \nMake sure to keep the kiddos away from the bottom; it shoots out quite a jet. Can make for fun obstacle challenges."
 		},
@@ -1320,7 +1320,7 @@
 			"name" : "Guardian's Heart",
 			"pickup" : "Gain a shield. Recharges outside of danger.",
 			"description" : "Gain a <b>60 <c_stack>(+60 per stack) <b>health shield</c>. Recharges when outside of danger for <b>7</c> seconds.",
-			"destination" : "1100 Fairview,\nResearch Center\nMars",
+			"destination" : "1100 Fairview,\nResearch Centre\nMars",
 			"date" : "16/09/2056",
 			"story" : "Test subject 150053 results. While living, the subject had advanced muscle growth, cell regeneration, higher agility, and increased intelligence, along with a blue hue to his skin. \nOn 23/08/2056, the subject broke free of his restraints and freed all other test subjects. All test subjects, including 150053, were terminated.\n\nHis heart seems to still beat independent of the rest of his body. Perhaps a transplant into another subject can continue research.",
 			"priority" : "<g>Priority/Biological</c>"
@@ -1329,7 +1329,7 @@
 			"name" : "Hopoo Feather",
 			"pickup" : "Gain an extra jump.",
 			"description" : "Gain <b>+1 <c_stack>(+1 per stack)</c> maximum <b>jump count</c>.",
-			"destination" : "2341\nRKR Center\nIo",
+			"destination" : "2341\nRKR Centre\nIo",
 			"date" : "03/07/2056",
 			"story" : "A feather from the hopoo, found only natively in Europa. Ever since its extreme light-weight vs tensile strength was discovered, the hopoo was almost driven to extinction from poaching. There are only 3 left; I hope you can keep their location safe.",
 			"priority" : "<g>Priority/Biological</c>"
@@ -1354,7 +1354,7 @@
 			"name" : "Chargefield Generator",
 			"pickup" : "Create a ring of lightning after killing an enemy. Lasts 6 seconds.",
 			"description" : "Killing an enemy creates a <y>ring of lightning</c> that deals <y>50% <c_stack>(+20% per stack) <y>damage</c> every <y>0.5</c> seconds to <b>50%</c> of enemies within. The ring starts with a radius of <y>4.7m</c> and <y>grows by 1.3m each kill</c> up to <y>40m</c>. Lasts for <y>6</c> seconds without killing enemies.",
-			"destination" : "Research Center,\nPolarity Zone,\nNeptune",
+			"destination" : "Research Centre,\nPolarity Zone,\nNeptune",
 			"date" : "30/11/2056",
 			"story" : "You know those anti-theft devices you can stick on your car? Yeah, it's like that, but for an individual. How it is used is up to you guys; first thought is military or self-protection.\n\nYou need to charge it generally after every use. It can /actually/ be charged off of bio-electrical signals, which sounds strange because of how weak they are, but in times of desperation we've found that effective as well. Up to you."
 		},
@@ -1411,7 +1411,7 @@
 			"name" : "Toxic Centipede",
 			"pickup" : "Infected!",
 			"description" : "<r>Infect</c> a nearby enemy on contact for <y>6 <c_stack>(+2 per stack) <y>seconds</c>, dealing <y>50% damage</c> every <y>0.5</c> seconds. Bounces to other enemies if the target dies. Recharges every <b>6 <c_stack>(-33% per stack) <b>seconds</c>.",
-			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Center\nVenus",
+			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Centre\nVenus",
 			"date" : "03/07/2056",
 			"story" : "Extremely interesting species found on OMEGA-19. Resembles a worm, snake, or limbless lizard. Seems to exude poison from its glands, so much that the 'worm' can't even contain it in its mouth.\n\nMay be a strain of stomach parasites found on other planets, but obviously much larger and deadlier. I hope you find some interesting knowledge from this species; it killed 16 of our workers alone. \nIt also seemed to give offspring every time, but we have only found 13. Please respond quickly.",
 			"priority" : "<g>Biological/Live Animal</c>"
@@ -1454,7 +1454,7 @@
 			"description" : "Passively <y>shock</c> nearby enemies for <y>120% <c_stack>(+60% per stack) <y>damage</c>.",
 			"destination" : "2013,\nEon Drive,\nEarth",
 			"date" : "28/06/2056",
-			"story" : "A memorial perfect for your Tesla museum. Fit enough for Mr. Tesla himself! Make sure you keep the thing in the glass vacuum as we talked about. Even then, keep the safety lines at least 5 feet AWAY from the glass. You don't want your centerpiece killing your guests, huh?"
+			"story" : "A memorial perfect for your Tesla museum. Fit enough for Mr. Tesla himself! Make sure you keep the thing in the glass vacuum as we talked about. Even then, keep the safety lines at least 5 feet AWAY from the glass. You don't want your centrepiece killing your guests, huh?"
 		},
 		"oldBox" : {
 			"name" : "Old Box",
@@ -1468,7 +1468,7 @@
 			"name" : "Beating Embryo",
 			"pickup" : "Equipment has a chance to have double effect.",
 			"description" : "Equipment has a <y>30% <c_stack>(+30% per stack) <y>chance</c> to deal <y>double</c> the effect.",
-			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Center\nVenus",
+			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Centre\nVenus",
 			"date" : "04/07/2056",
 			"story" : "Ah. We seem to have found a.. hive of sorts. Without its caretaker, however, most of the eggs seemed to have died off. Must have been caused by our previous specimen.\nKEEP IT REFRIGERATED. You do not want this.. beating embryo.. hatching in your care. God knows what will happen.",
 			"priority" : "<r>Biological/Extremely Fragile</c>"
@@ -1632,7 +1632,7 @@
 			"name" : "Hyper-Threader",
 			"pickup" : "Pew pew.",
 			"description" : "Hitting enemies <y>fires a laser</c> that deals <y>40% damage</c> and <y>bounces</c> to <y>2 <c_stack>(+1 per stack) <y>enemies</c>.",
-			"destination" : "6900 West,\nAdvanced Warfare Center,\nMars",
+			"destination" : "6900 West,\nAdvanced Warfare Centre,\nMars",
 			"date" : "08/12/2056",
 			"story" : "Despite its appearance, the FNA 200 'Hyper-Threader' Energy Subrifle is anything but fragile.\n\nUsing direct energy technology, the FNA 200 can fire superheated gases at a high fire rate. The FNA 200 also requires little to no charging, instead generating energy from the air around it.",
 			"priority" : "<r>High Priority</c>"
@@ -1796,7 +1796,7 @@
 			"name" : "Prescriptions",
 			"pickup" : "Increase damage and attack speed for 8 seconds.",
 			"description" : "Increase <y>damage by 30%</c> and <y>attack speed by 40%</c> for <y>8 seconds</c>.",
-			"destination" : "JusticeCenter,\nScience Dept.\nVenus",
+			"destination" : "JusticeCentre,\nScience Dept.\nVenus",
 			"date" : "18/01/2056",
 			"story" : "Are these pills legal? No. Are these pills helpful? Yes. Do pigs fly? No.\n\nVan-Ex increases strength and muscle mass in only 24 hours! Proven by science!\n\nMake sure to take only 2 every 8 hours, max! Otherwise you may find yourself dead!"
 		},
@@ -1853,7 +1853,7 @@
 			"name" : "Super Massive Leech",
 			"pickup" : "Grant massive life on hit for 10 seconds.",
 			"description" : "For <y>10 seconds</c>, every hit heals you for <g>10 health</c>.",
-			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Center\nVenus",
+			"destination" : "Carolyn Williams\nRare/Extinct\nStudy Centre\nVenus",
 			"date" : "19/06/2056",
 			"story" : "Giant leeches found in the pools of HYPERION-5. Very similar to its counterpart on Earth, but it seems to have developed teeth as well, allowing it to eat meat as well as siphon blood. \n\nA few have been spotted to ballon to enormous proportions,up to the size of a small dog. Like the common leech, this has obvious medical implications. You will just have to be extra careful, or you may come back to no patient and a giant bloody leech."
 		},
@@ -2392,7 +2392,7 @@
 		"rockGolem.name" : "Rock Golem",
 		"rockGolem.story" : "Now THEY are interesting. These Golems, which tower over me at 10' tall, are constructed from the soil and rock beneath my feet. After a brilliant red flash, the earth itself moves to create these constructs in 2 seconds flat. If I didn't know better, I would consider this.. magic.\n\nBecause of their material, they are extremely tough to take down. Using the same technology that constructs them, the Rock Golems are capable of creating a 'clap' which generates great amounts of energy. Damaging a golem eventually causes it to malfunction and die, returning to the ground.\n\nDespite their powerful combat abilities, the golems are gentle to everybody but me, and can be seen 'playing' with wildlife.",
 		"wisp.name" : "Wisp",
-		"wisp.story" : "Characterised by their constant flame, the Wisps are not living beings. Each Wisp has a mask in its center, where all the fire erupts from. The Wisps are able to concentrate their heat into a long range heat blast, capable of scorching anything in its path. On taking heavy damage, the fuel powering the Wisp detonates, sending the mask soaring clear through the air.\n\nHow they function is a mystery to me. While I've seen 'deactivated' masks all around this world, the only time I've spotted Wisps is around me, as if someone creates them specifically to kill me..",
+		"wisp.story" : "Characterised by their constant flame, the Wisps are not living beings. Each Wisp has a mask in its centre, where all the fire erupts from. The Wisps are able to concentrate their heat into a long range heat blast, capable of scorching anything in its path. On taking heavy damage, the fuel powering the Wisp detonates, sending the mask soaring clear through the air.\n\nHow they function is a mystery to me. While I've seen 'deactivated' masks all around this world, the only time I've spotted Wisps is around me, as if someone creates them specifically to kill me..",
 		"greaterWisp.name" : "Greater Wisp",
 		"greaterWisp.story" : "Oh lord. These.. Greater Wisps, as I have grown to call them, are absolutely terrifying to face. Tougher than the Rock Golem, faster then the Lemurian, and harder hitting then both combined. Unlike the lesser Wisps, the Greater Wisp has two arms capable of typical motion. They burn a brilliant green which pierces straight though my sun visor.\n\nTheir combat abilities are unprecedented; I can be clear 200m away, and they still manage to hit me square in the chest. I must stay hidden.. before they find me again.",
 		"sandCrab.name" : "Sand Crab",

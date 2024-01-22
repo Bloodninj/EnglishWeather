@@ -1,3 +1,6 @@
+#### 1.1.6
+* Update some missed spellings (mostly "center" in some addresses in the logs)
+
 #### 1.1.5
 * Update for latest patch (build ID 13005567)
   * Some ability damage numbers have been updated
